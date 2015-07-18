@@ -90,3 +90,9 @@ Feel free to submit more change to the repository with a PR or by contacting us 
     * Tilehut
     * Tileserver https://github.com/hanchao/TileServer
     * Tessera https://github.com/mojodna/tessera
+
+Credits (alphabetical):
+
+Thomas GRATIER
+Flo LEDERMANN
+Nabil SERVAIS
